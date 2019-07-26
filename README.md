@@ -1,4 +1,4 @@
 
 # TOOLS ENCRIPT BASH
-<img src="img/bash.JPG" />
+<img src="img/bash.png"/>
 
